@@ -90,6 +90,7 @@
 - [Tokenized Preview](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 - [Umami Analytics](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
 - [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) - Automatically generate selected file transformations on upload 
+- [PolyDoc](https://github.com/polydoc-tech/directus-extension-polydoc?ref=awesome-directus) - An operation to generate PDFs, screenshots, and EU e-invoices (Factur-X / ZUGFeRD) from HTML, a URL, or a saved template, saving the result straight into Directus Files.
 
 ### Extension Scripts
 
